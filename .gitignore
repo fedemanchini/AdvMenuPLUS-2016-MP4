@@ -8,3 +8,6 @@
 *.log
 *.map
 /compilar-debug.sh
+
+/advmenu.exe
+/*.sha256
